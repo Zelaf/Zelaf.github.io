@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Zelaf.github.io
+title: Zelaf's Blog
+email: zelaf@zelaf.eu
+author: Zelaf Ary
+description: I write about life, projects and problems.
+paginate: 5
+google_analytics: UA-80511145-2
